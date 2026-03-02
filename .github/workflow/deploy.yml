@@ -21,3 +21,4 @@ jobs:
           server-dir: ${{ secrets.FTP_PATH }}
           passive: true
           port: 21
+
