@@ -6,7 +6,7 @@ export default function Products(){
     {name:'Solid Block 400x200x100', spec:'Partition / light'},
     {name:'Paver 60mm', spec:'Parking areas, pedestrians'},
     {name:'Paver 80mm', spec:'Heavy parking / driveways'},
-    {name:'Cement Tile 12x12', spec:'Indoor/outdoor flooring'},
+    {name:'Cement Tile 12x12 25 mm', spec:'Indoor/outdoor flooring'},
   ]
   return (
     <section className="section p-4">

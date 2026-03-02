@@ -35,7 +35,7 @@ export default function Home(){
           </div>
           <div className="card p-4">
             <h3 className="font-semibold">Paver Blocks</h3>
-            <p className="text-sm text-brand-gray-600">Interlocking designs for parking & walkways</p>
+            <p className="text-sm text-brand-gray-600">Interlocking designs for parking & walkways from rubber mould</p>
           </div>
           <div className="card p-4">
             <h3 className="font-semibold">Cement Tiles</h3>

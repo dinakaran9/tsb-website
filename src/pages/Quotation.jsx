@@ -12,7 +12,7 @@ export default function Quotation(){
         <label className="block">Quantity (pcs)
           <input className="border p-2 w-full" type="number" value={qty} onChange={e=>setQty(+e.target.value)} />
         </label>
-        <label className="block">Unit price (₹)
+        <label className="blocks">Unit price (₹)
           <input className="border p-2 w-full" type="number" value={price} onChange={e=>setPrice(+e.target.value)} />
         </label>
         <div className="p-2 border rounded bg-brand-gray-50">Total: <strong>₹ {total.toLocaleString('en-IN')}</strong></div>

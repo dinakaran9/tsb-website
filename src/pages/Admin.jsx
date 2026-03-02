@@ -3,7 +3,7 @@ import { useState } from 'react'
 export default function Admin(){
   const [email,setEmail]=useState('')
   const [pwd,setPwd]=useState('')
-  const login = () => alert('This is a static placeholder. Backend auth will be added later.')
+  const login = () => alert('This is a static placeholder. Backend auth will be added later. only for admin use')
   return (
     <section className="section max-w-3xl p-4">
       <h1 className="text-3xl font-bold mb-4 text-brand-gray-900">Admin Login</h1>
