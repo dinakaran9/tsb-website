@@ -7,7 +7,7 @@ export default function Contact(){
         <p><strong>Factory:</strong> 1/149, Koothampakkam Road, Banavaram,Ranipet DT, Tamil Nadu</p>
         <p><strong>Phone:</strong> Dinakaran - +91-97890 32530 / Dilip Kumar +91 88256 39313 </p>
         <p><strong>Email:</strong> dinakaran9@gmail.com</p>
-        <p>Working Hours: Mon–Sat, 9:00–18:00 IST</p>
+        <p>Working Hours: Mon-Sun, 9:00–18:00 IST</p>
       </div>
     </section>
   )
